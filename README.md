@@ -23,7 +23,7 @@ I'm Konstantin Alaev, a Backend Team Lead with 7+ years of experience building h
 
 ### 📫 How to reach me
 - Telegram: @alaev_dev
-- Email: alaev.dev@gmail.com
+- Email: alaevdev@gmail.com
 
 ### ⚡ Tech stack
 `Java` `Go` `Spring Boot` `PostgreSQL` `Kafka` `Kubernetes` `Docker` `React`
