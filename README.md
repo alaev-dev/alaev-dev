@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**alaev-dev/alaev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Konstantin Alaev, a Backend Team Lead with 7+ years of experience building high-load systems.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Leading development - a high-load data processing service with 99.95% availability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Go programming language and its ecosystem
+- Modern frontend development
+
+### 💼 Professional highlights
+- Boosted system availability from 99.5% to 99.95%
+- Reduced technical debt by 46%
+- Implemented weekly release cycles for faster delivery
+- Expert in Java, Spring Boot, PostgreSQL, Kafka, Kubernetes
+
+### 💬 Ask me about
+- High-load backend systems and performance optimization
+- Java enterprise development and Spring framework
+- Team leadership and engineering practices
+- Microservices architecture and DDD
+
+### 📫 How to reach me
+- Telegram: @alaev_dev
+- Email: alaev.dev@gmail.com
+
+### ⚡ Tech stack
+`Java` `Go` `Spring Boot` `PostgreSQL` `Kafka` `Kubernetes` `Docker` `React`
+
+---
+
+*Always learning, always building* 🚀
